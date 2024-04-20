@@ -1,10 +1,11 @@
 
 body{
-    position: relative;
+    display: flex;
+    justify-content: center;
+    
 }
 
 .container{
-    margin-left: 90px;
     width: 80vw;
     display: flex;
     flex-direction: column;
